@@ -1,5 +1,5 @@
 # Cama-Caliente-PID
-¡Bienvenidos al emocionante proyecto de implementación de una cama caliente para soldadura superficial empleando un control con PID!
+¡Bienvenidos al proyecto de implementación de una cama caliente para soldadura superficial empleando un control con PID!
 
 Este repositorio es una valiosa fuente de documentos e información esencial para aquellos apasionados por la electrónica y la soldadura, que deseen construir su propia cama caliente con un sistema de control PID. Inspirado en el video de Electronoobs (www.shorturl.at/bfiDG), este proyecto lleva la experiencia de soldadura a un nivel superior, permitiendo un control preciso de la temperatura y una mejor calidad de las uniones.
 
@@ -11,4 +11,4 @@ Dentro de este repositorio, encontrarás todos los documentos y recursos necesar
 
 Además, para aquellos que busquen aún más detalles y claridad en cada paso del proceso, pueden consultar la página de Electronoobs (www.shorturl.at/aACQ1) para obtener información adicional y ver el video que inspiró este proyecto.
 
-¡Únete a esta emocionante aventura de creación y mejora de tus habilidades en soldadura superficial! Esperamos que este repositorio sea una fuente de aprendizaje y creatividad para todos aquellos que busquen llevar sus habilidades de soldadura al siguiente nivel. ¡Disfruta de la experiencia y comparte tus resultados con la comunidad electrónica! Juntos, construiremos un mundo de soldadura más preciso y efectivo. ¡A soldar!
+¡Únete a esta emocionante aventura de creación y mejora de tus habilidades en soldadura superficial! Esperamos que este repositorio sea una fuente de aprendizaje y creatividad para todos aquellos que busquen llevar sus habilidades de soldadura al siguiente nivel. ¡Disfruta de la experiencia y comparte tus resultados con la comunidad electrónica!
